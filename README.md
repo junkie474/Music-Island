@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/39404de1-9593-4221-b850-209653657737
 # MusicIsland
 
 Dynamic Island style music widget for Windows: shows what is playing (Spotify, YouTube, any player) at the top of the screen, with synced lyrics.
